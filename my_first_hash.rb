@@ -1,7 +1,6 @@
 def my_hash
   your_hash = {
     name => "Luis"}
-your_hash
 end
 
 
